@@ -398,6 +398,16 @@ table.plain {
     padding: 1em 0;
 }
 
+.blog-navigation-wrap {
+    border-top: #333 1px solid;
+    padding: 1em 0;
+}
+
+.nav {
+    margin: 0;
+    padding: 0 1.75rem;
+}
+
 .post {
     position: relative;
     margin: 4rem auto;
